@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">AboutMe</string>
+    <string name="name">KyeongMin Kim</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">안녕.\n내 이름은 김경민이야.
+        \n\n난 개발을 좋아해.
+        \n\n개발의 매력은 상상하는 것을 현실에 나오게 할 수 있다는 것에 있는 거 같아.
+        \n지금은 안드로이드 앱 개발자가 되기 위해 공부를 하고 있어.
+        \n\n현재 목표는 안드로이드를 통해서 로또 앱을 만드는거야.
+        \n물론 이미 만들어진 것들이 많지만 나만의 로또 앱을 만들고 싶어.
+        \n왜냐하면, 난 매주 로또를 사거든.
+        \n처음에는 내가 자주 이용하는 서비스를 만들고 싶어.
+        \n\n로또를 사는 이유는 1등 당첨 확률이 안사면 0% 지만 사면 0.0000122% 거든.
+        \n매우 낮지만 안사면 1등은 영원히 될 수 없어.
+        \n\n내 좌우명은 <b>\'가만히 있지말고 도전하자. 도전하는 것에 진심으로 임하자.\'</b> 이야.\n\n
+    </string>
 </resources>
