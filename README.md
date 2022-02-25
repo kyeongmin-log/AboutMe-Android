@@ -13,3 +13,13 @@
 [Virtual Device] - Nexus 5X (API LEVEL 30)
 
 ![project_result.gif](readme_files/project_result.gif)
+
+# 코딩 챌린지
+
+-  이미지를 스크롤 안에 넣기
+
+-  이전 결과와 달리 스크롤 시 이미지와 텍스트가 같이 움직인다. 즉, 아래로 스크롤 할 경우 이미지가 안보인다.
+
+[Virtual Device] - Nexus 5X (API LEVEL 30)
+
+![code_challenge_result.gif](readme_files/code_challenge_result.gif)
