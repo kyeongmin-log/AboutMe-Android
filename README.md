@@ -23,3 +23,17 @@
 [Virtual Device] - Nexus 5X (API LEVEL 30)
 
 ![code_challenge_result.gif](readme_files/code_challenge_result.gif)
+
+# Add user interactivity
+
+-  강의 : https://developer.android.com/codelabs/kotlin-android-training-interactivity#0
+
+-  유저 이름 추가하기
+
+-  추가한 유저 이름 변경하기
+
+# 결과
+
+[Virtual Device] - Nexus 5X (API LEVEL 30)
+
+![Add_user_interactivity_result.gif](readme_files/Add_user_interactivity_result.gif)

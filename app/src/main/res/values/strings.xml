@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">AboutMe</string>
     <string name="name">KyeongMin Kim</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
     <string name="yellow_star">Yellow star</string>
     <string name="bio">안녕.\n내 이름은 김경민이야.
         \n\n난 개발을 좋아해.
@@ -14,4 +15,5 @@
         \n매우 낮지만 안사면 1등은 영원히 될 수 없어.
         \n\n내 좌우명은 <b>\'가만히 있지말고 도전하자. 도전하는 것에 진심으로 임하자.\'</b> 이야.\n\n
     </string>
+    <string name="done">Done</string>
 </resources>
