@@ -37,3 +37,19 @@
 [Virtual Device] - Nexus 5X (API LEVEL 30)
 
 ![Add_user_interactivity_result.gif](readme_files/Add_user_interactivity_result.gif)
+
+# Data binding basics
+
+-  강의 : https://developer.android.com/codelabs/kotlin-android-training-data-binding-basics#0
+
+-  data binding 을 이용하여 앱을 Fix
+
+# 결과
+
+-  결과는 이전과 동일하다. 코드 안에서 데이터 사용 방식이 바뀌었다.
+
+# 왜 사용하는가?
+
+-  이전까지 views를 참조하기 위해서는 findViewById()를 사용하였다. 만약 모든 view들을 findViewById()를 이용하여 참조한다면 앱이 작을 경우 문제가 안되지만, 앱에 다양한 기능, view들이 nested(중첩)되어있을 경우 앱을 사용하고 있는 동안 각 view에 접근할 때마다 위에서부터 순차적으로 각 view에 접근하기에 처리하는 양이 점점 많아져서 느려지는 현상이 발생한다.
+
+-  data binding을 사용하게 되면 각 view를 불러올 때, 순차적으로 접근하는 것이 아닌 Binding Object를 이용하여 해당 view를 가져오기에 속도가 down 되는 현상이 없다. 또한, findViewById()를 사용하는 코드보다 코드가 짧고 읽기 쉬우며 유지 관리에 용이하다.
